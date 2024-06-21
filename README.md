@@ -1,4 +1,26 @@
 # Excel-Sales-Finance-Analytics
+## Project Details:
+ 
+ - **Problem Statement:**
+
+AtliQ hardwares is a consumer goods IT hardware manufacturing Company and AtliQ is a fast-growing hardware company that sells various products to customers in many countries through various channels, including retail, direct sales, and distributor networks, both online and in brick-and-mortar stores. To support its growth and make data-driven decisions, AtliQ needs a data analytics team to create reports using advanced excel techniques as follows:
+
+**1.** Creating Connections by importing Data from folder/csv files.
+
+**2.** Importing Data to Data Model by adding the same in Data Model.
+
+**3.** Creating Data Model and connecting the respective tables in StarSchema SnowFlakes Model in one to many relationships
+.
+**4.** Inserting PivotTable and Managing the Data within Power Pivot by dragging and droping data fields from Power Pivot Field Pane in Excel software.
+
+**5.** Creating/Editing Measures and Managing them in Power Pivot.
+
+**6.** Transforming Data in PowerQuery Editor like replacing values, promoting Headers, transposing tables, Trimming Characters etc.
+
+**7.** Adding Conditional Formatting and KPIs for Color Grading with respect to different parameters.
+
+
+
 ## Sales Report :
 
 
