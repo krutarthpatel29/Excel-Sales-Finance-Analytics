@@ -9,8 +9,8 @@ AtliQ hardwares is a consumer goods IT hardware manufacturing Company and AtliQ 
 
 **2.** Importing Data to Data Model by adding the same in Data Model.
 
-**3.** Creating Data Model and connecting the respective tables in StarSchema SnowFlakes Model in one to many relationships
-.
+**3.** Creating Data Model and connecting the respective tables in StarSchema SnowFlakes Model in one to many relationships.
+
 **4.** Inserting PivotTable and Managing the Data within Power Pivot by dragging and droping data fields from Power Pivot Field Pane in Excel software.
 
 **5.** Creating/Editing Measures and Managing them in Power Pivot.
